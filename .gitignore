@@ -1,0 +1,5 @@
+config.py
+__pycache__
+find_player.json
+venv/
+find_player.log
